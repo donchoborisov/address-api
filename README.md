@@ -6,19 +6,19 @@ Step 1 - Clone the Repo <br>
 git clone https://github.com/donchoborisov/address-api.git
  
 Step 2 - Go into the folder <br>
-cd api
+<b>cd api</b>
 
 Step 3 - Run the following command<br>
-composer install
+<b>composer install</b>
 
 Step 4 copy the ENV file<br>
-cp .env.example .env
+<b>cp .env.example .env</b>
 
 Step 5 generate the key<br>
-php artisan key:generate
+<b>php artisan key:generate</b>
 
 Step 6 - Run the local server<br>
-php artisan serve 
+<b>php artisan serve</b> 
 
 
 
